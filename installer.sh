@@ -4,7 +4,7 @@
 # ⚙ SERVER_EAGLE_SAT Plugin Installer (Updated)
 # ------------------------------
 
-PLUGIN_NAME="SERVER-EAGLE-SAT"
+PLUGIN_NAME="EAGLE"
 PLUGIN_VERSION="1.0"
 
 clear
