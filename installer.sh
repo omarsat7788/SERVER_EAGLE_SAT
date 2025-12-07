@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # ------------------------------
-#  SERVER_EAGLE_SAT Plugin Installer (Updated)
+# ⚙ EAGLE Plugin Installer (Updated)
 # ------------------------------
 
 PLUGIN_NAME="SERVER_EAGLE_SAT"
@@ -68,11 +68,5 @@ echo ""
 echo "📞 للإشتراك المرجو التواصل معنا عبر الواتس آب أو رقم الهاتف:"
 echo "    +2001011058982"
 echo ""
-echo ""
-echo "#########################################################"
-echo "#           your Device will RESTART Now                #"
-echo "#########################################################"
-sleep 3
-killall enigma2
 
 exit 0
