@@ -1,10 +1,10 @@
 #!/bin/sh
 
 # ------------------------------
-# ⚙ SERVER_EAGLE_SAT Plugin Installer (Updated)
+#  SERVER_EAGLE_SAT Plugin Installer (Updated)
 # ------------------------------
 
-PLUGIN_NAME="EAGLE"
+PLUGIN_NAME="SERVER_EAGLE_SAT"
 PLUGIN_VERSION="1.0"
 
 clear
