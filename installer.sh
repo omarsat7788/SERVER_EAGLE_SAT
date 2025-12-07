@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # ------------------------------
-# ⚙ EAGLE Plugin Installer (Updated)
+# ⚙ SERVER_EAGLE_SAT Plugin Installer (Updated)
 # ------------------------------
 
 PLUGIN_NAME="SERVER_EAGLE_SAT"
