@@ -5,7 +5,7 @@
 # ------------------------------
 
 PLUGIN_NAME="SERVER_EAGLE_SAT"
-PLUGIN_VERSION="1.0"
+PLUGIN_VERSION="1.1"
 
 clear
 echo ""
@@ -16,7 +16,7 @@ echo "│ This script will install the
         SERVER_EAGLE_SAT plugin     │"
 echo "│ on your Enigma2-based receiver.                    │"
 echo "│                                                    │"
-echo "│ Version   : 1.0                                │"
+echo "│ Version   : 1.1                                │"
 echo "│ Developer : OMARSAT                           │"
 echo "└────────────────────────────────────────────────────┘"
 echo ""
@@ -61,7 +61,7 @@ rm -f "$ZIP_PATH"
 # === Step 4: Final Message ===
 echo "[4/4] ✅ Installation complete!"
 echo ""
-echo "🎉 The plugin \"SERVER_EAGLE_SAT\" (v1.0) has been installed successfully."
+echo "🎉 The plugin \"SERVER_EAGLE_SAT\" (v1.1) has been installed successfully."
 
 # === Subscription info ===
 echo ""
